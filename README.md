@@ -1,6 +1,4 @@
-# DHCP-server-client-NodeJS
-A DHCP server and client written in JavaScript
-
+# A DHCP server and client written in JavaScript
 
 ![DHCP-server-client-NodeJS](https://github.com/HectorTa1989/DHCP-server-client-NodeJS/blob/master/res/logo.png?raw=true "JavaScript DHCP Server")
 
